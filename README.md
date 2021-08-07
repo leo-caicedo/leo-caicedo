@@ -2,8 +2,8 @@
 I like learning about backend technologies.
 Some programming languages that I use as tools are **Python** and **Nodejs**. 👨‍💻
 
-I am also interested in topics such as Linux (currently I use Manjaro)
-since I find this tool very comfortable and I like its history.🚀
+I am also interested in topics such as Linux (currently I use Manjaro) since I find this tool very comfortable and I like its history.🚀
+I strongly consider learning mobile development, apparently phones have conquered the world 😆
 <!--
 **leo-caicedo/leo-caicedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
